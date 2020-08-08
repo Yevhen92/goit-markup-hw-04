@@ -286,10 +286,12 @@ header .link.current {
   padding: 0;
   list-style: none;
   display: flex;
+  justify-content: center;
 }
 .clients-item:not(:first-child) {
   margin-left: 30px;
 }
+
 .clients-link {
   display: inline-flex;
   width: 170px;
