@@ -350,7 +350,6 @@ footer {
 /* Блоки */
 .container {
   width: 1230px;
-  outline: 2px solid blue;
   margin: 0 auto;
   padding: 0 15px;
 }
